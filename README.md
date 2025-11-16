@@ -23,8 +23,10 @@ The frequency of oscillation is given by fo   = 1/2πRC
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/53ef7b91-7bd4-4e06-b98c-d80970261018" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-16 at 19 26 56_8d82afda](https://github.com/user-attachments/assets/02e0ca20-4f9f-4193-81e1-5d631088bf18)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-16 at 19 27 30_65f71a97](https://github.com/user-attachments/assets/4e61f4f3-69bb-49da-8a73-8f2cb6f88d39)
 
 ## CIRCUIT DIAGRAM:
 ## WIEN BRIDGE OSCILLATOR
@@ -66,4 +68,5 @@ To prevent loading,
 3.	Measure the output wave frequency and amplitude.
 
 ## RESULT:
+![WhatsApp Image 2025-11-16 at 19 28 28_94fc7580](https://github.com/user-attachments/assets/78837aa8-7e6a-497b-89bd-25b836e64a60)
 
